@@ -1,0 +1,8 @@
+model,aeci,global_ci_low,global_ci_high,local_ci_low,local_ci_high,n_benchmarks,epoch_counterpart
+Claude Mythos Preview,165.71,162.70,169.65,164.01,168.00,,
+Claude Mythos 5,168.68,165.24,172.99,167.72,169.72,,Claude Fable 5
+Claude Opus 5,169.40,165.83,173.89,168.27,170.73,,Claude Opus 5
+Claude Mythos 5.1,172.62,168.51,177.63,171.41,174.10,,Claude Fable 5.1
+Claude Opus 5.5,174.78,170.33,180.29,173.47,176.40,,Claude Opus 5.5
+Claude Mythos 5.2,177.12,172.42,182.94,175.75,178.48,37,Claude Fable 5.2
+Internal Model,178.78,173.75,185.18,177.08,180.59,15,

@@ -1,0 +1,15 @@
+label,chart_month,log_perplexity,released,capability_line,plot_date,plot_date_basis
+GPT-3.5,2022-03,0.986,yes,Fluent conversation,,not plotted
+GPT-4,2023-03,0.913,yes,Benefits from thinking before answering,,not plotted
+GPT-4 Turbo,2023-11,0.909,yes,,,not plotted
+GPT-4o / o1,2024-05,0.904,yes,,,not plotted
+GPT-4.5,2025-02,0.876,yes,,,not plotted
+GPT-4.1 / o3,2025-04,0.902,yes,,,not plotted
+GPT-5 / 5.1,2025-08,0.893,yes,,,not plotted
+GPT-5.2,2025-12,0.888,yes,,2025-12-11,release date (Epoch file)
+GPT-5.3-Codex / 5.4,2026-02,0.871,yes,Useful coder,2026-02-15,middle of the chart month
+GPT-5.5,2026-04,0.848,yes,,2026-04-23,release date (Epoch file)
+GPT-5.6 Sol,2026-07,0.828,yes,Cybersecurity expert,2026-07-09,release date (Epoch file)
+GPT-6 Astra,2026-09,0.783,yes,,2026-09-03,release date (Epoch file)
+GPT-6.2 Astra,2026-11,0.761,yes,Solved a Millennium Prize math problem,2026-11-17,release date (Epoch file)
+Internal model,2026-11,0.732,no,,2026-11-17,same x as GPT-6.2 Astra (as on OpenAI's chart)

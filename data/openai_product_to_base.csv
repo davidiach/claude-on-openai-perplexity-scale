@@ -1,0 +1,17 @@
+epoch_model,chart_label,log_perplexity,reasoning,on_2026_curve,date_override,note
+GPT-4 (Mar 2023),GPT-4,0.913,0,no,,
+GPT-4 Turbo (Nov 2023),GPT-4 Turbo,0.909,0,no,2023-11-06,Epoch's file dates this row 2024-01-25; the model shipped 6 Nov 2023 which is also OpenAI's chart month
+GPT-4o (May 2024),GPT-4o / o1,0.904,0,no,,
+o1-preview,GPT-4o / o1,0.904,1,no,,assumed to share the o1 base
+o1,GPT-4o / o1,0.904,1,no,,
+GPT-4.5,GPT-4.5,0.876,0,no,,
+GPT-4.1,GPT-4.1 / o3,0.902,0,no,,
+o3,GPT-4.1 / o3,0.902,1,no,,
+GPT-5,GPT-5 / 5.1,0.893,1,no,,
+GPT-5.1,GPT-5 / 5.1,0.893,1,yes,,
+GPT-5.2,GPT-5.2,0.888,1,yes,,
+GPT-5.4,GPT-5.3-Codex / 5.4,0.871,1,yes,,
+GPT-5.5,GPT-5.5,0.848,1,yes,,
+GPT-5.6 Sol,GPT-5.6 Sol,0.828,1,yes,,
+GPT-6 Astra,GPT-6 Astra,0.783,1,yes,,
+GPT-6.2 Astra,GPT-6.2 Astra,0.761,1,yes,,

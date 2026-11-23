@@ -1,0 +1,47 @@
+n = 16 OpenAI products
+ECI per 0.01 of loss: 1.00 +/- 0.23
+ECI per year at fixed loss: 8.7 +/- 1.3
+ECI for a reasoning model: 7.9 +/- 2.0
+residual sd: 2.51 ECI = 0.025 of loss
+corr(loss, time), all products: -0.771
+
+residuals:
+  GPT-4 (Mar 2023)         +3.6
+  GPT-4 Turbo (Nov 2023)   +0.7
+  GPT-4o (May 2024)        -0.9
+  o1-preview               -6.3
+  o1                       -1.0
+  GPT-4.5                  -2.3
+  GPT-4.1                  -1.1
+  o3                       +1.8
+  GPT-5                    +1.2
+  GPT-5.1                  -0.2
+  GPT-5.2                  +2.2
+  GPT-5.4                  +1.9
+  GPT-5.5                  +0.7
+  GPT-5.6 Sol              -0.3
+  GPT-6 Astra              +0.1
+  GPT-6.2 Astra            -0.3
+
+leave-one-out, ECI per 0.01 of loss:
+  without GPT-4 (Mar 2023)         0.76
+  without GPT-4 Turbo (Nov 2023)   0.98
+  without GPT-4o (May 2024)        0.99
+  without o1-preview               1.06
+  without o1                       0.99
+  without GPT-4.5                  0.97
+  without GPT-4.1                  0.93
+  without o3                       1.02
+  without GPT-5                    1.02
+  without GPT-5.1                  0.99
+  without GPT-5.2                  1.06
+  without GPT-5.4                  1.04
+  without GPT-5.5                  1.00
+  without GPT-5.6 Sol              1.00
+  without GPT-6 Astra              0.99
+  without GPT-6.2 Astra            1.02
+
+Dec 2025 onward (6 products):
+  corr(loss, time) = -0.983
+  loss alone: 1.39 ECI per 0.01
+  time alone: 20.0 ECI per year
